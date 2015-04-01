@@ -72,10 +72,14 @@ eclipse <span class="freecomment">// Eclipse本体のディレクトリ</span>
 
 ## 更新サイトを利用 {#update-site}
 
-準備中
-{: .freecomment}
+### 更新サイトの登録
 
-{::comment}
-更新サイト
-  : {{ site.github.owner_url }}{{ site.eclipse_update_url }}
-{:/comment}
+更新サイトに以下サイトを登録(名前は "DBFlute EMecha Eclipse" など)します。
+
+更新サイトのURL
+: * https://{{ site.github.owner_name }}.{{ site.github.pages_hostname }}{{ site.eclipse_update_url }}
+
+### インストール
+
+登録したサイトからEMechaを選択してインストールします。 グループ化を解除せずに(デフォルト設定のまま)インストールすることを推奨します。
+

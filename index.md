@@ -39,11 +39,9 @@ Eclipse 4.x (Eclipse IDE for Java EE Developers is better) JRE 7 or later
 [ダウンロードページ - EMecha - Releases]({{ site.github.owner_url }}/dbflute-emecha-eclipse/releases/latest)
 {: .detailpage}
 
-{::comment}
 更新サイト
 : 更新サイトからインストールする場合は、以下のURLを利用することが出来ます。
-  : {{site.github.url}}/updates
-{:/comment}
+: * https://{{ site.github.owner_name }}.{{ site.github.pages_hostname }}{{ site.eclipse_update_url }}
 
 
 [インストール手順]({{ site.baseurl }}/setup.html)
