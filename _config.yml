@@ -8,6 +8,8 @@ title: DBFlute EMecha
 
 encoding: 'utf-8'
 
+exclude: ['updates/artifacts.jar','updates/content.jar']
+
 highlighter: pygments
 
 markdown: kramdown
@@ -16,6 +18,8 @@ kramdown:
 
 sass:
   sass_dir: _scss
+
+baseurl: /eclipse-doc
 
 dbflute_url: http://dbflute.seasar.org
 
