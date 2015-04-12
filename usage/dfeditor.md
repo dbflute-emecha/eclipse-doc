@@ -75,3 +75,5 @@ DBFluteプロパティにおけるキーワードなどが色付けがされま�
 「ウィンドウ(Window)」-「設定(Preferences)」でワークスペースの設定画面を開き、ツリーメニューから **「EMecha」-「DFEditor」** を選択するとDFEditorの設定画面が表示されます。
 
 設定画面では、エディタで色付けを行う際の配色を任意の色に変更することが出来ます。
+
+![DFEditor PreferencePage]({{ site.baseurl }}/image/shot/dfeditor-preference-page.png "DFEditor PreferencePage"){: width="550px" style="border: 1px solid"}

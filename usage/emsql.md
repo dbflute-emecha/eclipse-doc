@@ -30,6 +30,8 @@ EMSqlの外だしSQLファイル作成機能を利用することにより、Beh
 
 データベースの種類を設定しておくことにより、ページングを利用する外だしSQLのファイル作成時に出力される雛形がDBMSに合わせた内容になります。
 
+![EMSql PropertyPage]({{ site.baseurl }}/image/shot/emsql-property-page.png "EMSql PropertyPage"){: width="550px" style="border:1px solid"}
+
 [DBFlute - DBFluteのサポート情報]({{ site.dbflute_url }}/ja/environment/supported.html)
 {: .relatedpage}
 
