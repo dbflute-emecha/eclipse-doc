@@ -28,7 +28,7 @@ title: Usage
 
 * SQLAssist
 : 外だしSQLをSQLエディタで作成する際の補完による入力支援拡張
-  (Data Tools Platform (DTP) のSQLエディタに対する機能拡張) 
+  (Data Tools Platform (DTP) のSQLエディタに対する機能拡張)
 
 [SQLAssist](sqlassist.html)
 {: .detailpage}
@@ -39,3 +39,10 @@ title: Usage
 
 [EMSynchronizer](synchronizer.html)
 {: .detailpage}
+
+* PMEditor
+: MailFluteのテンプレートファイルを作成する際の色付けや補完による入力支援をするエディタ
+
+[PMEditor](pmeditor.html)
+{: .detailpage}
+
