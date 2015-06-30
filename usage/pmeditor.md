@@ -13,8 +13,11 @@ category: PMEditor
 
 ## PMEditorとは？ {#description}
 
-[MailFlute](https://github.com/dbflute-session/mailflute)で利用するテンプレートファイルの作成支援を行うエディタプラグインです。
+MailFluteで利用するテンプレートファイルの作成支援を行うエディタプラグインです。
 ファイルを開く際のエディタ名としては、 **PMEditor** と表示されます。
+
+[MailFlute](https://github.com/dbflute-session/mailflute)
+{: .relatedpage}
 
 ## ファイル関連付け {#contenttype}
 
